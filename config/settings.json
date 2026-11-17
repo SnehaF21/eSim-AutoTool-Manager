@@ -1,0 +1,8 @@
+{
+    "tool_paths": {
+        "2": "C:\\Program Files\\KiCad\\10.0\\bin\\kicad-cli.exe"
+    },
+    "preferences": {
+        "package_manager": "auto"
+    }
+}
